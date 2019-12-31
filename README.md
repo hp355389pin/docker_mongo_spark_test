@@ -3,10 +3,10 @@ docker_mongo_spark_test
 
 使用方式
 -----------------------
-‵ ‵‵Bash
+` `` Bash
 bash build-images.sh
-‵ ‵‵
-‵ ‵‵Bash
+` `` 
+` `` Bash
 docker-compose up -d
-‵ ‵‵
+` `` 
 ###
